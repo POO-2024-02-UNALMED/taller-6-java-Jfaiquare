@@ -16,3 +16,4 @@ public class Main {
         // Imprimir la cantidad de vehículos por tipo
         System.out.println(Vehiculo.vehiculosPorTipo());
     }
+}
