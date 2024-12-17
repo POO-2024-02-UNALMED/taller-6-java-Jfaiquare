@@ -49,3 +49,4 @@ public class Vehiculo {
                "Camionetas: " + Camioneta.getCantidadCamionetas() + "\n" +
                "Camiones: " + Camion.getCantidadCamiones();
     }
+}
